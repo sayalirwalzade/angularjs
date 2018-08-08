@@ -1,0 +1,28 @@
+day1
+document
+div
+knockout
+ember
+extjs
+jquery
+handlebars
+scriptsrc
+web components
+polymer
+mordnizr
+
+day2
+console object
+no scope
+let insted of var
+${vsriable} -multiline
+.gitignore
+
+loops:
+if else
+switch
+do while
+
+js objects
+let obj={
+}
